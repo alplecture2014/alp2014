@@ -43,3 +43,16 @@ We need your input as soon as possible!
 See the deadline and explanation on "Assignment Sheet 0"!
  
 */
+
+unavailable( 'Jun Liu', tuesday,  13 ).
+unavailable( 'Jun Liu', tuesday,  14 ).
+unavailable( 'Jun Liu', wednesday,  14 ).
+unavailable( 'Jun Liu', wednesday,  15 ).
+unavailable( 'Jun Liu', wednesday,  16 ).
+unavailable( 'Jun Liu', wednesday,  17 ).
+unavailable( 'Jun Liu', wednesday,  18 ).
+unavailable( 'Jun Liu', thursday,  13 ).
+unavailable( 'Jun Liu', thursday,  14 ).
+unavailable( 'Jun Liu', thursday,  15 ).
+unavailable( 'Jun Liu', friday,  14 ).
+unavailable( 'Jun Liu', friday,  15 ).
