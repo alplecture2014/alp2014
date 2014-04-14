@@ -114,3 +114,20 @@ unavailable( 'Adela Bran', friday, 15).
 unavailable( 'Adela Bran', friday, 16).
 unavailable( 'Adela Bran', friday, 17).
 
+unavailable( 'Christina Sofianou', tuesday, 10).
+unavailable( 'Christina Sofianou', tuesday, 11).
+unavailable( 'Christina Sofianou', tuesday, 13).
+unavailable( 'Christina Sofianou', tuesday, 14).
+unavailable( 'Christina Sofianou', wednesday, 14).
+unavailable( 'Christina Sofianou', wednesday, 15).
+unavailable( 'Christina Sofianou', thursday, 13).
+unavailable( 'Christina Sofianou', thursday, 14).
+unavailable( 'Christina Sofianou', thursday, 15).
+unavailable( 'Christina Sofianou', friday, 9).
+unavailable( 'Christina Sofianou', friday, 10).
+unavailable( 'Christina Sofianou', friday, 11).
+unavailable( 'Christina Sofianou', friday, 14).
+unavailable( 'Christina Sofianou', friday, 15).
+unavailable( 'Christina Sofianou', friday, 16).
+unavailable( 'Christina Sofianou', friday, 17).
+
