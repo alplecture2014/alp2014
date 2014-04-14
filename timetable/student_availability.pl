@@ -132,3 +132,16 @@ unavailable( 'Christina Sofianou', friday, 16).
 unavailable( 'Christina Sofianou', friday, 17).
 
 unavailable( 'sahar pourkarimi koukaneh', monday 8).
+
+unavailable( 'Gaurav Singha Roy', monday, 16).
+unavailable( 'Gaurav Singha Roy', monday, 17).
+
+unavailable( 'Gaurav Singha Roy', tuesday, 11).
+unavailable( 'Gaurav Singha Roy', tuesday, 13).
+unavailable( 'Gaurav Singha Roy', tuesday, 14).
+unavailable( 'Gaurav Singha Roy', wednesday, 14).
+unavailable( 'Gaurav Singha Roy', wednesday, 15).
+unavailable( 'Gaurav Singha Roy', wednesday, 16).
+unavailable( 'Gaurav Singha Roy', wednesday, 17).
+unavailable( 'Gaurav Singha Roy', friday, 16).
+unavailable( 'Gaurav Singha Roy', friday, 17).
