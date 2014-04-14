@@ -148,3 +148,11 @@ unavailable( 'Gaurav Singha Roy', friday, 16).
 unavailable( 'Gaurav Singha Roy', friday, 17).
 
 %end unavailability - Gaurav Singha Roy
+
+unavailable('Michael Buchner', monday, 16).
+unavailable('Michael Buchner', tuesday, 10).
+unavailable('Michael Buchner', tuesday, 11).
+unavailable('Michael Buchner', friday, 10).
+unavailable('Michael Buchner', friday, 11).
+unavailable('Michael Buchner', friday, 16).
+unavailable('Michael Buchner', friday, 17).
