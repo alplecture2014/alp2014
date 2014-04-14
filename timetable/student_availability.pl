@@ -131,7 +131,6 @@ unavailable( 'Christina Sofianou', friday, 15).
 unavailable( 'Christina Sofianou', friday, 16).
 unavailable( 'Christina Sofianou', friday, 17).
 
-unavailable( 'sahar pourkarimi koukaneh', monday 8).
 
 %Unavailability Gaurav Singha roy
 
@@ -172,3 +171,31 @@ unavailable( 'Alvin Tjondrowiguno', thursday, 15).
 unavailable( 'Alvin Tjondrowiguno', friday, 15).
 unavailable( 'Alvin Tjondrowiguno', friday, 16).
 unavailable( 'Alvin Tjondrowiguno', friday, 17).
+
+unavailable( 'Alvin Tjondrowiguno', friday, 16).
+unavailable( 'Alvin Tjondrowiguno', friday, 17).
+
+unavailable( 'Alvin Tjondrowiguno', friday, 16).
+unavailable( 'Alvin Tjondrowiguno', friday, 17).
+
+%Unavailability sahar pourkarimi
+unavailable( 'sahar pourkarimi koukaneh', monday,  16).
+unavailable( 'sahar pourkarimi koukaneh', monday,  17).
+unavailable( 'sahar pourkarimi koukaneh', tuesday,  10).
+unavailable( 'sahar pourkarimi koukaneh', tuesday,  11).
+unavailable( 'sahar pourkarimi koukaneh', tuesday,  13).
+unavailable( 'sahar pourkarimi koukaneh', tuesday,  14).
+unavailable( 'sahar pourkarimi koukaneh', wednesday,  14).
+unavailable( 'sahar pourkarimi koukaneh', wednesday,  15).
+unavailable( 'sahar pourkarimi koukaneh', wednesday,  16).
+unavailable( 'sahar pourkarimi koukaneh', wednesday,  17).
+unavailable( 'sahar pourkarimi koukaneh', thursday,  14).
+unavailable( 'sahar pourkarimi koukaneh', thursday,  15).
+unavailable( 'sahar pourkarimi koukaneh', friday,  9).
+unavailable( 'sahar pourkarimi koukaneh', friday,  10).
+unavailable( 'sahar pourkarimi koukaneh', friday,  11).
+unavailable( 'sahar pourkarimi koukaneh', friday,  14).
+unavailable( 'sahar pourkarimi koukaneh', friday,  15).
+unavailable( 'sahar pourkarimi koukaneh', friday,  16).
+unavailable( 'sahar pourkarimi koukaneh', friday,  17).
+
