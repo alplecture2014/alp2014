@@ -1,4 +1,4 @@
-/* 
+ï»¿/* 
   Unfortunately, our registation system had a major technical problem, 
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and 
@@ -15,24 +15,24 @@
 
   where 
   
-  •	FullName must be a Prolog atom (see lecture slides, section about
+  â€¢	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'Günter Kniesel'. 
+	second name), e.g. 'GÃ¼nter Kniesel'. 
 	
-  •	Day must be one of monday, tuesday, wednesday, thursday, friday 
+  â€¢	Day must be one of monday, tuesday, wednesday, thursday, friday 
     (Please make sure you use lower case! (Can you guess why?)
 	
-  •	Hour must be an integer denoting any full hour (e.g. 9, 11, 14). 
+  â€¢	Hour must be an integer denoting any full hour (e.g. 9, 11, 14). 
     It tells us, that you are unavailable from that time for the next 
 	hour. E.g. if you enter 11 we know that you are unavailable from 
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of Günter Kniesel:
+Example: Exercise unavailability of GÃ¼nter Kniesel:
 
-unavailable( 'Günter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'GÃ¼nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'GÃ¼nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'GÃ¼nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during 
 the slots when our tutors are available (see file "tutorial_slots.pl"). 
@@ -68,15 +68,15 @@ unavailable( 'Niklas Bergmann', friday, 	9  ).
 unavailable( 'Niklas Bergmann', friday, 	10 ). 
 unavailable( 'Niklas Bergmann', friday, 	11 ). 
 
-unavailable( 'Michael Heußen', monday, 16).
-unavailable( 'Michael Heußen', monday, 17).
-unavailable( 'Michael Heußen', tuesday, 11).
-unavailable( 'Michael Heußen', tuesday, 13).
-unavailable( 'Michael Heußen', tuesday, 14).
-unavailable( 'Michael Heußen', wednesday, 14).
-unavailable( 'Michael Heußen', wednesday, 15).
-unavailable( 'Michael Heußen', thursday, 13).
-unavailable( 'Michael Heußen', thursday, 14).
-unavailable( 'Michael Heußen', thursday, 15).
-unavailable( 'Michael Heußen', friday, 14).
-unavailable( 'Michael Heußen', friday, 15).
+unavailable( 'Michael HeuÃŸen', monday, 16).
+unavailable( 'Michael HeuÃŸen', monday, 17).
+unavailable( 'Michael HeuÃŸen', tuesday, 11).
+unavailable( 'Michael HeuÃŸen', tuesday, 13).
+unavailable( 'Michael HeuÃŸen', tuesday, 14).
+unavailable( 'Michael HeuÃŸen', wednesday, 14).
+unavailable( 'Michael HeuÃŸen', wednesday, 15).
+unavailable( 'Michael HeuÃŸen', thursday, 13).
+unavailable( 'Michael HeuÃŸen', thursday, 14).
+unavailable( 'Michael HeuÃŸen', thursday, 15).
+unavailable( 'Michael HeuÃŸen', friday, 14).
+unavailable( 'Michael HeuÃŸen', friday, 15).
