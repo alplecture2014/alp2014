@@ -67,3 +67,18 @@ unavailable( 'Niklas Bergmann', tuesday, 	14 ).
 unavailable( 'Niklas Bergmann', friday, 	9  ). 
 unavailable( 'Niklas Bergmann', friday, 	10 ). 
 unavailable( 'Niklas Bergmann', friday, 	11 ). 
+
+unavailable( 'Yvonne Omlor', tuesday, 10).
+unavailable( 'Yvonne Omlor', tuesday, 11).
+unavailable( 'Yvonne Omlor', tuesday, 13).
+unavailable( 'Yvonne Omlor', tuesday, 14).
+unavailable( 'Yvonne Omlor', wednesday, 14).
+unavailable( 'Yvonne Omlor', wednesday, 15).
+unavailable( 'Yvonne Omlor', wednesday, 16).
+unavailable( 'Yvonne Omlor', wednesday, 17).
+unavailable( 'Yvonne Omlor', thursday, 13).
+unavailable( 'Yvonne Omlor', thursday, 14).
+unavailable( 'Yvonne Omlor', thursday, 15).
+unavailable( 'Yvonne Omlor', friday, 9).
+unavailable( 'Yvonne Omlor', friday, 10).
+unavailable( 'Yvonne Omlor', friday, 11).
