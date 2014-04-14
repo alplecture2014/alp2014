@@ -56,3 +56,14 @@ unavailable( 'Jun Liu', thursday,  14 ).
 unavailable( 'Jun Liu', thursday,  15 ).
 unavailable( 'Jun Liu', friday,  14 ).
 unavailable( 'Jun Liu', friday,  15 ).
+
+unavailable( 'Niklas Bergmann', thursday, 	13 ).
+unavailable( 'Niklas Bergmann', thursday, 	14 ). 
+unavailable( 'Niklas Bergmann', thursday, 	15 ). 
+unavailable( 'Niklas Bergmann', tuesday, 	10 ). 
+unavailable( 'Niklas Bergmann', tuesday, 	11 ). 
+unavailable( 'Niklas Bergmann', tuesday, 	13 ). 
+unavailable( 'Niklas Bergmann', tuesday, 	14 ). 
+unavailable( 'Niklas Bergmann', friday, 	9  ). 
+unavailable( 'Niklas Bergmann', friday, 	10 ). 
+unavailable( 'Niklas Bergmann', friday, 	11 ). 
