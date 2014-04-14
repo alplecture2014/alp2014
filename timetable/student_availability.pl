@@ -95,3 +95,22 @@ unavailable( 'Yvonne Omlor', thursday, 15).
 unavailable( 'Yvonne Omlor', friday, 9).
 unavailable( 'Yvonne Omlor', friday, 10).
 unavailable( 'Yvonne Omlor', friday, 11).
+
+%Unavailability adela bran
+unavailable( 'Adela Bran', monday, 16).
+unavailable( 'Adela Bran', monday, 17).
+unavailable( 'Adela Bran', tuesday, 10).
+unavailable( 'Adela Bran', tuesday, 11).
+unavailable( 'Adela Bran', tuesday, 13).
+unavailable( 'Adela Bran', tuesday, 14).
+unavailable( 'Adela Bran', thursday, 13).
+unavailable( 'Adela Bran', thursday, 14).
+unavailable( 'Adela Bran', thursday, 15).
+unavailable( 'Adela Bran', friday, 9).
+unavailable( 'Adela Bran', friday, 10).
+unavailable( 'Adela Bran', friday, 11).
+unavailable( 'Adela Bran', friday, 14).
+unavailable( 'Adela Bran', friday, 15).
+unavailable( 'Adela Bran', friday, 16).
+unavailable( 'Adela Bran', friday, 17).
+
