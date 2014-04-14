@@ -156,3 +156,19 @@ unavailable('Michael Buchner', friday, 10).
 unavailable('Michael Buchner', friday, 11).
 unavailable('Michael Buchner', friday, 16).
 unavailable('Michael Buchner', friday, 17).
+
+unavailable( 'Alvin Tjondrowiguno', tuesday, 10).
+unavailable( 'Alvin Tjondrowiguno', tuesday, 11).
+unavailable( 'Alvin Tjondrowiguno', tuesday, 13).
+unavailable( 'Alvin Tjondrowiguno', tuesday, 14).
+unavailable( 'Alvin Tjondrowiguno', wednesday, 14).
+unavailable( 'Alvin Tjondrowiguno', wednesday, 15).
+unavailable( 'Alvin Tjondrowiguno', wednesday, 16).
+unavailable( 'Alvin Tjondrowiguno', wednesday, 17).
+unavailable( 'Alvin Tjondrowiguno', wednesday, 18).
+unavailable( 'Alvin Tjondrowiguno', thursday, 13).
+unavailable( 'Alvin Tjondrowiguno', thursday, 14).
+unavailable( 'Alvin Tjondrowiguno', thursday, 15).
+unavailable( 'Alvin Tjondrowiguno', friday, 15).
+unavailable( 'Alvin Tjondrowiguno', friday, 16).
+unavailable( 'Alvin Tjondrowiguno', friday, 17).
