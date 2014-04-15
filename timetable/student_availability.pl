@@ -277,3 +277,18 @@ unavailable( 'Amr Koura', friday, 14).
 unavailable( 'Amr Koura', friday, 15).
 unavailable( 'Amr Koura', friday, 16).
 unavailable( 'Amr Koura', friday, 17).
+
+%Unavailability Eva-Maria Hols
+unavailable( 'Eva-Maria Hols', monday, 17).
+unavailable( 'Eva-Maria Hols', tuesday, 10).
+unavailable( 'Eva-Maria Hols', tuesday, 14).
+unavailable( 'Eva-Maria Hols', wednesday, 14).
+unavailable( 'Eva-Maria Hols', wednesday, 15).
+unavailable( 'Eva-Maria Hols', wednesday, 16).
+unavailable( 'Eva-Maria Hols', wednesday, 17).
+unavailable( 'Eva-Maria Hols', wednesday, 18).
+unavailable( 'Eva-Maria Hols', thursday, 13).
+unavailable( 'Eva-Maria Hols', thursday, 14).
+unavailable( 'Eva-Maria Hols', thursday, 15).
+unavailable( 'Eva-Maria Hols', friday, 14).
+unavailable( 'Eva-Maria Hols', friday, 15).
