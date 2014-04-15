@@ -347,7 +347,7 @@ unavailable( 'Xiaoming Su', friday,  12 ).
 unavailable( 'Xiaoming Su', friday,  16 ).
 % end Unavailability Xiaoming Su
 
-<<<<<<< Updated upstream
+
 
 unavailable( 'Krisztian Simon', monday, 16).
 unavailable( 'Krisztian Simon', monday, 17).
@@ -363,7 +363,7 @@ unavailable( 'Krisztian Simon', friday, 14).
 unavailable( 'Krisztian Simon', friday, 15).
 unavailable( 'Krisztian Simon', friday, 16).
 unavailable( 'Krisztian Simon', friday, 17).
-=======
+
 
 unavailable( 'Rose-Mary Mensah', monday, 16).
 unavailable( 'Rose-Mary Mensah', monday, 17).
