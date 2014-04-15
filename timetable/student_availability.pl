@@ -1,4 +1,4 @@
-锘�*
+/*
   Unfortunately, our registation system had a major technical problem,
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and
@@ -15,24 +15,24 @@
 
   where
 
-  鈥�FullName must be a Prolog atom (see lecture slides, section about
+  ?	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'G眉nter Kniesel'.
+	second name), e.g. 'G��nter Kniesel'.
 
-  鈥�Day must be one of monday, tuesday, wednesday, thursday, friday
+  ?	Day must be one of monday, tuesday, wednesday, thursday, friday
     (Please make sure you use lower case! (Can you guess why?)
 
-  鈥�Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
+  ?	Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
     It tells us, that you are unavailable from that time for the next
 	hour. E.g. if you enter 11 we know that you are unavailable from
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of G眉nter Kniesel:
+Example: Exercise unavailability of G��nter Kniesel:
 
-unavailable( 'G眉nter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'G眉nter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'G眉nter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'G��nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'G��nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'G��nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during
 the slots when our tutors are available (see file "tutorial_slots.pl").
@@ -68,18 +68,18 @@ unavailable( 'Niklas Bergmann', friday,		9  ).
 unavailable( 'Niklas Bergmann', friday,		10 ).
 unavailable( 'Niklas Bergmann', friday,		11 ).
 
-unavailable( 'Michael Heu脽en', monday, 16).
-unavailable( 'Michael Heu脽en', monday, 17).
-unavailable( 'Michael Heu脽en', tuesday, 11).
-unavailable( 'Michael Heu脽en', tuesday, 13).
-unavailable( 'Michael Heu脽en', tuesday, 14).
-unavailable( 'Michael Heu脽en', wednesday, 14).
-unavailable( 'Michael Heu脽en', wednesday, 15).
-unavailable( 'Michael Heu脽en', thursday, 13).
-unavailable( 'Michael Heu脽en', thursday, 14).
-unavailable( 'Michael Heu脽en', thursday, 15).
-unavailable( 'Michael Heu脽en', friday, 14).
-unavailable( 'Michael Heu脽en', friday, 15).
+unavailable( 'Michael Heu?en', monday, 16).
+unavailable( 'Michael Heu?en', monday, 17).
+unavailable( 'Michael Heu?en', tuesday, 11).
+unavailable( 'Michael Heu?en', tuesday, 13).
+unavailable( 'Michael Heu?en', tuesday, 14).
+unavailable( 'Michael Heu?en', wednesday, 14).
+unavailable( 'Michael Heu?en', wednesday, 15).
+unavailable( 'Michael Heu?en', thursday, 13).
+unavailable( 'Michael Heu?en', thursday, 14).
+unavailable( 'Michael Heu?en', thursday, 15).
+unavailable( 'Michael Heu?en', friday, 14).
+unavailable( 'Michael Heu?en', friday, 15).
 
 unavailable( 'Yvonne Omlor', tuesday, 10).
 unavailable( 'Yvonne Omlor', tuesday, 11).
@@ -253,3 +253,35 @@ unavailable( 'Ruotong Li', friday, 9).
 unavailable( 'Ruotong Li', friday, 10).
 unavailable( 'Ruotong Li', friday, 11).
 % end Unavailability Ruotong Li
+%Unavailability Florian Weile
+unavailable('Florian Weile', friday, 9).
+unavailable('Florian Weile', friday, 14).
+unavailable('Florian Weile', friday, 15).
+unavailable('Florian Weile', friday, 16).
+unavailable('Florian Weile', friday, 17).
+unavailable('Florian Weile', thursday, 13).
+unavailable('Florian Weile', thursday, 14).
+unavailable('Florian Weile', thursday, 15).
+unavailable('Florian Weile', wednesday, 14).
+unavailable('Florian Weile', wednesday, 15).
+unavailable('Florian Weile', wednesday, 16).
+unavailable('Florian Weile', wednesday, 17).
+unavailable('Florian Weile', wednesday, 18).
+unavailable('Florian Weile', monday, 16).
+unavailable('Florian Weile', monday, 17).
+
+unavailable( 'Amr Koura', monday, 14).
+unavailable( 'Amr Koura', tuesday, 13).
+unavailable( 'Amr Koura', tuesday, 14).
+unavailable( 'Amr Koura', wednesday, 14).
+unavailable( 'Amr Koura', wednesday, 15).
+unavailable( 'Amr Koura', wednesday, 16).
+unavailable( 'Amr Koura', thursday, 13).
+unavailable( 'Amr Koura', thursday, 14).
+unavailable( 'Amr Koura', friday, 9).
+unavailable( 'Amr Koura', friday, 10).
+unavailable( 'Amr Koura', friday,11).
+unavailable( 'Amr Koura', friday, 14).
+unavailable( 'Amr Koura', friday, 15).
+unavailable( 'Amr Koura', friday, 16).
+unavailable( 'Amr Koura', friday, 17).
