@@ -90,8 +90,10 @@ So no matter how they coax him
 I'll stay right here 
 They have things like the atom bomb 
 So I think I'll stay where I "om" 
-Civilization, I'll stay right here 
+Civilization, I'll stay right here
 
+After some trial and error the merge conflict resolves
+and now the student is watching as the poem evolves.
 
  -- Jointly authored by the ALP 2014 participants and team.
 
