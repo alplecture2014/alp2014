@@ -94,3 +94,25 @@ Civilization, I'll stay right here
 
 
  -- Jointly authored by the ALP 2014 participants and team.
+
+
+UNIX
+[To the tune of _Money_ by Pink Floyd]
+
+UNIX, it's a gas;
+grab that VAX with
+both hands and
+make it crash.
+
+UNIX, it's a hit;
+Don't give me that
+PC DOS Bullshit.
+
+I'm into well benchmarked
+POSIX Open Systems
+I think I need a RISC chip.
+
+UNIX, jmp back;
+I'm all niced now
+pop your frame off of
+my stack. 
