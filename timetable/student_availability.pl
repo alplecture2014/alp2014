@@ -1,4 +1,4 @@
-﻿/*
+/*
   Unfortunately, our registation system had a major technical problem,
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and
@@ -15,24 +15,24 @@
 
   where
 
-  •	FullName must be a Prolog atom (see lecture slides, section about
+  ?	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'Günter Kniesel'.
+	second name), e.g. 'G��nter Kniesel'.
 
-  •	Day must be one of monday, tuesday, wednesday, thursday, friday
+  ?	Day must be one of monday, tuesday, wednesday, thursday, friday
     (Please make sure you use lower case! (Can you guess why?)
 
-  •	Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
+  ?	Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
     It tells us, that you are unavailable from that time for the next
 	hour. E.g. if you enter 11 we know that you are unavailable from
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of Günter Kniesel:
+Example: Exercise unavailability of G��nter Kniesel:
 
-unavailable( 'Günter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'G��nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'G��nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'G��nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during
 the slots when our tutors are available (see file "tutorial_slots.pl").
@@ -57,6 +57,17 @@ unavailable( 'Jun Liu', thursday,  15 ).
 unavailable( 'Jun Liu', friday,  14 ).
 unavailable( 'Jun Liu', friday,  15 ).
 
+%Unavailability Ruotong Li
+unavailable( 'Ruotong Li', tuesday,  13 ).
+unavailable( 'Ruotong Li', tuesday,  14 ).
+unavailable( 'Ruotong Li', thursday, 13).
+unavailable( 'Ruotong Li', thursday, 14).
+unavailable( 'Ruotong Li', thursday, 15).
+unavailable( 'Ruotong Li', friday, 9).
+unavailable( 'Ruotong Li', friday, 10).
+unavailable( 'Ruotong Li', friday, 11).
+% end Unavailability Ruotong Li
+
 unavailable( 'Niklas Bergmann', thursday,	13 ).
 unavailable( 'Niklas Bergmann', thursday,	14 ).
 unavailable( 'Niklas Bergmann', thursday,	15 ).
@@ -68,18 +79,18 @@ unavailable( 'Niklas Bergmann', friday,		9  ).
 unavailable( 'Niklas Bergmann', friday,		10 ).
 unavailable( 'Niklas Bergmann', friday,		11 ).
 
-unavailable( 'Michael Heußen', monday, 16).
-unavailable( 'Michael Heußen', monday, 17).
-unavailable( 'Michael Heußen', tuesday, 11).
-unavailable( 'Michael Heußen', tuesday, 13).
-unavailable( 'Michael Heußen', tuesday, 14).
-unavailable( 'Michael Heußen', wednesday, 14).
-unavailable( 'Michael Heußen', wednesday, 15).
-unavailable( 'Michael Heußen', thursday, 13).
-unavailable( 'Michael Heußen', thursday, 14).
-unavailable( 'Michael Heußen', thursday, 15).
-unavailable( 'Michael Heußen', friday, 14).
-unavailable( 'Michael Heußen', friday, 15).
+unavailable( 'Michael Heu?en', monday, 16).
+unavailable( 'Michael Heu?en', monday, 17).
+unavailable( 'Michael Heu?en', tuesday, 11).
+unavailable( 'Michael Heu?en', tuesday, 13).
+unavailable( 'Michael Heu?en', tuesday, 14).
+unavailable( 'Michael Heu?en', wednesday, 14).
+unavailable( 'Michael Heu?en', wednesday, 15).
+unavailable( 'Michael Heu?en', thursday, 13).
+unavailable( 'Michael Heu?en', thursday, 14).
+unavailable( 'Michael Heu?en', thursday, 15).
+unavailable( 'Michael Heu?en', friday, 14).
+unavailable( 'Michael Heu?en', friday, 15).
 
 unavailable( 'Yvonne Omlor', tuesday, 10).
 unavailable( 'Yvonne Omlor', tuesday, 11).
@@ -245,6 +256,14 @@ unavailable( 'Timm Behner', thursday, 15).
 unavailable( 'Timm Behner', friday, 14).
 unavailable( 'Timm Behner', friday, 15).
 
+%Unavailability Ruotong Li
+unavailable( 'Ruotong Li', thursday, 13).
+unavailable( 'Ruotong Li', thursday, 14).
+unavailable( 'Ruotong Li', thursday, 15).
+unavailable( 'Ruotong Li', friday, 9).
+unavailable( 'Ruotong Li', friday, 10).
+unavailable( 'Ruotong Li', friday, 11).
+% end Unavailability Ruotong Li
 %Unavailability Florian Weile
 unavailable('Florian Weile', friday, 9).
 unavailable('Florian Weile', friday, 14).
@@ -292,3 +311,18 @@ unavailable( 'Eva-Maria Hols', thursday, 14).
 unavailable( 'Eva-Maria Hols', thursday, 15).
 unavailable( 'Eva-Maria Hols', friday, 14).
 unavailable( 'Eva-Maria Hols', friday, 15).
+
+%Unavailability Xiaoming Su
+unavailable( 'Xiaoming Su', monday,  12 ).
+unavailable( 'Xiaoming Su', monday,  16 ).
+unavailable( 'Xiaoming Su', tuesday,  8 ).
+unavailable( 'Xiaoming Su', tuesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  15 ).
+unavailable( 'Xiaoming Su', thursday,  8 ).
+unavailable( 'Xiaoming Su', thursday,  10 ).
+unavailable( 'Xiaoming Su', friday,  12 ).
+unavailable( 'Xiaoming Su', friday,  16 ).
+% end Unavailability Xiaoming Su
