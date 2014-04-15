@@ -1,4 +1,4 @@
-/*
+﻿/*
   Unfortunately, our registation system had a major technical problem,
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and
@@ -226,6 +226,26 @@ unavailable( 'Cristobal Leiva', friday, 15).
 unavailable( 'Cristobal Leiva', friday, 16).
 unavailable( 'Cristobal Leiva', friday, 17).
 
+%Unavailability klaus martinez
+unavailable( 'Klaus Martinez', monday, 16).
+unavailable( 'Klaus Martinez', monday, 17).
+unavailable( 'Klaus Martinez', tuesday, 10).
+unavailable( 'Klaus Martinez', tuesday, 11).
+unavailable( 'Klaus Martinez', tuesday, 13).
+unavailable( 'Klaus Martinez', tuesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 17).
+unavailable( 'Klaus Martinez', wednesday, 18).
+unavailable( 'Klaus Martinez', thursday, 13).
+unavailable( 'Klaus Martinez', friday, 9).
+unavailable( 'Klaus Martinez', friday, 10).
+unavailable( 'Klaus Martinez', friday, 11).
+unavailable( 'Klaus Martinez', friday, 14).
+unavailable( 'Klaus Martinez', friday, 15).
+unavailable( 'Klaus Martinez', friday, 16).
+unavailable( 'Klaus Martinez', friday, 17).
+
+
 %Unavailability olkesandr Melnyk
 unavailable( 'Oleksandr Melnyk', tuesday, 10).
 unavailable( 'Oleksandr Melnyk', tuesday, 11).
@@ -327,6 +347,7 @@ unavailable( 'Xiaoming Su', friday,  12 ).
 unavailable( 'Xiaoming Su', friday,  16 ).
 % end Unavailability Xiaoming Su
 
+<<<<<<< Updated upstream
 
 unavailable( 'Krisztian Simon', monday, 16).
 unavailable( 'Krisztian Simon', monday, 17).
@@ -342,3 +363,21 @@ unavailable( 'Krisztian Simon', friday, 14).
 unavailable( 'Krisztian Simon', friday, 15).
 unavailable( 'Krisztian Simon', friday, 16).
 unavailable( 'Krisztian Simon', friday, 17).
+=======
+
+unavailable( 'Rose-Mary Mensah', monday, 16).
+unavailable( 'Rose-Mary Mensah', monday, 17).
+unavailable( 'Rose-Mary Mensah', tuesday, 10).
+unavailable( 'Rose-Mary Mensah', tuesday, 11).
+unavailable( 'Rose-Mary Mensah', wednesday, 17).
+unavailable( 'Rose-Mary Mensah', wednesday, 18).
+unavailable( 'Rose-Mary Mensah', thursday, 13).
+unavailable( 'Rose-Mary Mensah', thursday, 14).
+unavailable( 'Rose-Mary Mensah', thursday, 15).
+unavailable( 'Rose-Mary Mensah', friday, 9).
+unavailable( 'Rose-Mary Mensah', friday, 10).
+unavailable( 'Rose-Mary Mensah', friday, 11).
+unavailable( 'Rose-Mary Mensah', friday, 14).
+unavailable( 'Rose-Mary Mensah', friday, 15).
+unavailable( 'Rose-Mary Mensah', friday, 16).
+unavailable( 'Rose-Mary Mensah', friday, 17).
