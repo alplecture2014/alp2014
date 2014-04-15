@@ -463,10 +463,22 @@ unavailable('Sarvenaz Golchinniksirat', friday, 17 ).
 
 
 
-
-
-
-
-
-
+%Unavailability mohsen jadidi
+unavailable( 'mohsen jadidi', tuesday, 13 ).
+unavailable( 'mohsen jadidi', tuesday, 14 ).
+unavailable( 'mohsen jadidi', wednesday, 14 ).
+unavailable( 'mohsen jadidi', wednesday, 15 ).
+unavailable( 'mohsen jadidi', wednesday, 16 ).
+unavailable( 'mohsen jadidi', wednesday, 17 ).
+unavailable( 'mohsen jadidi', wednesday, 18 ).
+unavailable( 'mohsen jadidi', thursday, 13 ).
+unavailable( 'mohsen jadidi', thursday, 14 ).
+unavailable( 'mohsen jadidi', thursday, 15 ).
+unavailable( 'mohsen jadidi', Friday, 9 ).
+unavailable( 'mohsen jadidi', Friday, 10 ).
+unavailable( 'mohsen jadidi', Friday, 11 ).
+unavailable( 'mohsen jadidi', Friday, 14 ).
+unavailable( 'mohsen jadidi', Friday, 15 ).
+unavailable( 'mohsen jadidi', Friday, 16 ).
+unavailable( 'mohsen jadidi', Friday, 17 ).
 
