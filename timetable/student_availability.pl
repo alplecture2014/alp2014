@@ -285,3 +285,20 @@ unavailable( 'Amr Koura', friday, 14).
 unavailable( 'Amr Koura', friday, 15).
 unavailable( 'Amr Koura', friday, 16).
 unavailable( 'Amr Koura', friday, 17).
+
+
+
+%Unavailability Xiaoming Su
+unavailable( 'Xiaoming Su', monday,  12 ).
+unavailable( 'Xiaoming Su', monday,  16 ).
+unavailable( 'Xiaoming Su', tuesday,  8 ).
+unavailable( 'Xiaoming Su', tuesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  15 ).
+unavailable( 'Xiaoming Su', thursday,  8 ).
+unavailable( 'Xiaoming Su', thursday,  10 ).
+unavailable( 'Xiaoming Su', friday,  12 ).
+unavailable( 'Xiaoming Su', friday,  16 ).
+% end Unavailability Xiaoming Su
