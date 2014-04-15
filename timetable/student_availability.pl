@@ -215,5 +215,18 @@ unavailable( 'Cristobal Leiva', friday, 15).
 unavailable( 'Cristobal Leiva', friday, 16).
 unavailable( 'Cristobal Leiva', friday, 17).
 
-
-
+%Unavailability olkesandr Melnyk
+unavailable( 'Oleksandr Melnyk', tuesday, 10). 
+unavailable( 'Oleksandr Melnyk', tuesday, 11).
+unavailable( 'Oleksandr Melnyk', tuesday, 13).
+unavailable( 'Oleksandr Melnyk', tuesday, 14).
+unavailable( 'Oleksandr Melnyk', wednesday, 16).
+unavailable( 'Oleksandr Melnyk', wednesday, 17).
+unavailable( 'Oleksandr Melnyk', thursday, 13).
+unavailable( 'Oleksandr Melnyk', thursday, 14).
+unavailable( 'Oleksandr Melnyk', thursday, 15).
+unavailable( 'Oleksandr Melnyk', Friday, 9).
+unavailable( 'Oleksandr Melnyk', Friday, 12).
+unavailable( 'Oleksandr Melnyk', Friday, 13).
+unavailable( 'Oleksandr Melnyk', Friday, 14).
+unavailable( 'Oleksandr Melnyk', Friday, 15).
