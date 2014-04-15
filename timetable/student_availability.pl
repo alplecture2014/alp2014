@@ -230,3 +230,18 @@ unavailable( 'Oleksandr Melnyk', Friday, 12).
 unavailable( 'Oleksandr Melnyk', Friday, 13).
 unavailable( 'Oleksandr Melnyk', Friday, 14).
 unavailable( 'Oleksandr Melnyk', Friday, 15).
+
+unavailable( 'Timm Behner', monday, 17).
+unavailable( 'Timm Behner', tuesday, 10).
+unavailable( 'Timm Behner', tuesday, 14).
+unavailable( 'Timm Behner', wednesday, 14).
+unavailable( 'Timm Behner', wednesday, 15).
+unavailable( 'Timm Behner', wednesday, 16).
+unavailable( 'Timm Behner', wednesday, 17).
+unavailable( 'Timm Behner', wednesday, 18).
+unavailable( 'Timm Behner', thursday, 13).
+unavailable( 'Timm Behner', thursday, 14).
+unavailable( 'Timm Behner', thursday, 15).
+unavailable( 'Timm Behner', friday, 14).
+unavailable( 'Timm Behner', friday, 15).
+
