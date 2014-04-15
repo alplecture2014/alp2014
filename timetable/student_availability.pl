@@ -1,4 +1,4 @@
-﻿/*
+/*
   Unfortunately, our registation system had a major technical problem,
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and
@@ -17,7 +17,7 @@
 
   ?	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'G��nter Kniesel'.
+	second name), e.g. 'G??nter Kniesel'.
 
   ?	Day must be one of monday, tuesday, wednesday, thursday, friday
     (Please make sure you use lower case! (Can you guess why?)
@@ -28,11 +28,11 @@
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of G��nter Kniesel:
+Example: Exercise unavailability of G??nter Kniesel:
 
-unavailable( 'G��nter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'G��nter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'G��nter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'G??nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'G??nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'G??nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during
 the slots when our tutors are available (see file "tutorial_slots.pl").
@@ -79,18 +79,19 @@ unavailable( 'Niklas Bergmann', friday,		9  ).
 unavailable( 'Niklas Bergmann', friday,		10 ).
 unavailable( 'Niklas Bergmann', friday,		11 ).
 
-unavailable( 'Michael Heu?en', monday, 16).
-unavailable( 'Michael Heu?en', monday, 17).
-unavailable( 'Michael Heu?en', tuesday, 11).
-unavailable( 'Michael Heu?en', tuesday, 13).
-unavailable( 'Michael Heu?en', tuesday, 14).
-unavailable( 'Michael Heu?en', wednesday, 14).
-unavailable( 'Michael Heu?en', wednesday, 15).
-unavailable( 'Michael Heu?en', thursday, 13).
-unavailable( 'Michael Heu?en', thursday, 14).
-unavailable( 'Michael Heu?en', thursday, 15).
-unavailable( 'Michael Heu?en', friday, 14).
-unavailable( 'Michael Heu?en', friday, 15).
+unavailable( 'Michael Heussen', monday, 16).
+unavailable( 'Michael Heussen', monday, 17).
+unavailable( 'Michael Heussen', tuesday, 11).
+unavailable( 'Michael Heussen', tuesday, 13).
+unavailable( 'Michael Heussen', tuesday, 14).
+unavailable( 'Michael Heussen', wednesday, 14).
+unavailable( 'Michael Heussen', wednesday, 15).
+unavailable( 'Michael Heussen', wednesday, 16).
+unavailable( 'Michael Heussen', thursday, 13).
+unavailable( 'Michael Heussen', thursday, 14).
+unavailable( 'Michael Heussen', thursday, 15).
+unavailable( 'Michael Heussen', friday, 14).
+unavailable( 'Michael Heussen', friday, 15).
 
 unavailable( 'Yvonne Omlor', tuesday, 10).
 unavailable( 'Yvonne Omlor', tuesday, 11).
