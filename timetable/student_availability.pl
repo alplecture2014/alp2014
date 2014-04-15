@@ -396,3 +396,24 @@ unavailable( 'Ziduan Fang', thursday,  14 ).
 unavailable( 'Ziduan Fang', thursday,  15 ).
 unavailable( 'Ziduan Fang', friday,  14 ).
 unavailable( 'Ziduan Fang', friday,  15 ).
+
+unavailable( 'Majella von Zahn', monday, 16).
+unavailable( 'Majella von Zahn', tuesday, 10). 
+unavailable( 'Majella von Zahn', tuesday, 11).  
+unavailable( 'Majella von Zahn', tuesday, 13).  
+unavailable( 'Majella von Zahn', tuesday, 14).  
+unavailable( 'Majella von Zahn', wednesday, 14).     
+unavailable( 'Majella von Zahn', wednesday, 15). 
+unavailable( 'Majella von Zahn', wednesday, 16).   
+unavailable( 'Majella von Zahn', wednesday, 18). 
+unavailable( 'Majella von Zahn', thursday, 13). 
+unavailable( 'Majella von Zahn', thursday, 14). 
+unavailable( 'Majella von Zahn', friday, 9).  
+unavailable( 'Majella von Zahn', friday, 10). 
+unavailable( 'Majella von Zahn', friday, 11).     
+unavailable( 'Majella von Zahn', friday, 12). 
+unavailable( 'Majella von Zahn', friday, 14).  
+unavailable( 'Majella von Zahn', friday, 15).     
+unavailable( 'Majella von Zahn', friday, 16).     
+unavailable( 'Majella von Zahn', friday, 17).           
+
