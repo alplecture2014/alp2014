@@ -382,3 +382,17 @@ unavailable( 'Hantong Liu', wednesday,  11 ).
 unavailable( 'Hantong Liu', wednesday,  13 ).
 unavailable( 'Hantong Liu', friday,  14 ).
 unavailable( 'Hantong Liu', friday,  15 ).
+
+
+unavailable( 'Ziduan Fang', tuesday,  13 ).
+unavailable( 'Ziduan Fang', tuesday,  14 ).
+unavailable( 'Ziduan Fang', wednesday,  14 ).
+unavailable( 'Ziduan Fang', wednesday,  15 ).
+unavailable( 'Ziduan Fang', wednesday,  16 ).
+unavailable( 'Ziduan Fang', wednesday,  17 ).
+unavailable( 'Ziduan Fang', wednesday,  18 ).
+unavailable( 'Ziduan Fang', thursday,  13 ).
+unavailable( 'Ziduan Fang', thursday,  14 ).
+unavailable( 'Ziduan Fang', thursday,  15 ).
+unavailable( 'Ziduan Fang', friday,  14 ).
+unavailable( 'Ziduan Fang', friday,  15 ).
