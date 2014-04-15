@@ -227,7 +227,7 @@ unavailable( 'Cristobal Leiva', friday, 16).
 unavailable( 'Cristobal Leiva', friday, 17).
 
 %Unavailability olkesandr Melnyk
-unavailable( 'Oleksandr Melnyk', tuesday, 10). 
+unavailable( 'Oleksandr Melnyk', tuesday, 10).
 unavailable( 'Oleksandr Melnyk', tuesday, 11).
 unavailable( 'Oleksandr Melnyk', tuesday, 13).
 unavailable( 'Oleksandr Melnyk', tuesday, 14).
@@ -326,3 +326,19 @@ unavailable( 'Xiaoming Su', thursday,  10 ).
 unavailable( 'Xiaoming Su', friday,  12 ).
 unavailable( 'Xiaoming Su', friday,  16 ).
 % end Unavailability Xiaoming Su
+
+
+unavailable( 'Krisztian Simon', monday, 16).
+unavailable( 'Krisztian Simon', monday, 17).
+unavailable( 'Krisztian Simon', tuesday, 10).
+unavailable( 'Krisztian Simon', tuesday, 11).
+unavailable( 'Krisztian Simon', tuesday, 13).
+unavailable( 'Krisztian Simon', tuesday, 14).
+unavailable( 'Krisztian Simon', wednesday, 18).
+unavailable( 'Krisztian Simon', thursday, 13).
+unavailable( 'Krisztian Simon', thursday, 14).
+unavailable( 'Krisztian Simon', thursday, 15).
+unavailable( 'Krisztian Simon', friday, 14).
+unavailable( 'Krisztian Simon', friday, 15).
+unavailable( 'Krisztian Simon', friday, 16).
+unavailable( 'Krisztian Simon', friday, 17).
