@@ -17,7 +17,7 @@
 
   ?	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'G¨¹nter Kniesel'.
+	second name), e.g. 'Gï¿½ï¿½nter Kniesel'.
 
   ?	Day must be one of monday, tuesday, wednesday, thursday, friday
     (Please make sure you use lower case! (Can you guess why?)
@@ -28,11 +28,11 @@
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of G¨¹nter Kniesel:
+Example: Exercise unavailability of Gï¿½ï¿½nter Kniesel:
 
-unavailable( 'G¨¹nter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'G¨¹nter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'G¨¹nter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'Gï¿½ï¿½nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'Gï¿½ï¿½nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'Gï¿½ï¿½nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during
 the slots when our tutors are available (see file "tutorial_slots.pl").
@@ -56,6 +56,17 @@ unavailable( 'Jun Liu', thursday,  14 ).
 unavailable( 'Jun Liu', thursday,  15 ).
 unavailable( 'Jun Liu', friday,  14 ).
 unavailable( 'Jun Liu', friday,  15 ).
+
+%Unavailability Ruotong Li
+unavailable( 'Ruotong Li', tuesday,  13 ).
+unavailable( 'Ruotong Li', tuesday,  14 ).
+unavailable( 'Ruotong Li', thursday, 13).
+unavailable( 'Ruotong Li', thursday, 14).
+unavailable( 'Ruotong Li', thursday, 15).
+unavailable( 'Ruotong Li', friday, 9).
+unavailable( 'Ruotong Li', friday, 10).
+unavailable( 'Ruotong Li', friday, 11).
+% end Unavailability Ruotong Li
 
 unavailable( 'Niklas Bergmann', thursday,	13 ).
 unavailable( 'Niklas Bergmann', thursday,	14 ).
