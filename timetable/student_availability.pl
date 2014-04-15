@@ -236,6 +236,7 @@ unavailable( 'Klaus Martinez', tuesday, 14).
 unavailable( 'Klaus Martinez', wednesday, 14).
 unavailable( 'Klaus Martinez', wednesday, 17).
 unavailable( 'Klaus Martinez', wednesday, 18).
+unavailable( 'Klaus Martinez', thursday, 13).
 unavailable( 'Klaus Martinez', friday, 9).
 unavailable( 'Klaus Martinez', friday, 10).
 unavailable( 'Klaus Martinez', friday, 11).
