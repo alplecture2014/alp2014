@@ -1,4 +1,4 @@
-﻿/*
+/*
   Unfortunately, our registation system had a major technical problem,
   which could not be quickly fixed. The alternative system that is used
   by other courses would force us to specify just 10 time slots and
@@ -15,24 +15,24 @@
 
   where
 
-  •	FullName must be a Prolog atom (see lecture slides, section about
+  ?	FullName must be a Prolog atom (see lecture slides, section about
     Prolog terms) containing your full name (that is, first name and
-	second name), e.g. 'Günter Kniesel'.
+	second name), e.g. 'G??nter Kniesel'.
 
-  •	Day must be one of monday, tuesday, wednesday, thursday, friday
+  ?	Day must be one of monday, tuesday, wednesday, thursday, friday
     (Please make sure you use lower case! (Can you guess why?)
 
-  •	Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
+  ?	Hour must be an integer denoting any full hour (e.g. 9, 11, 14).
     It tells us, that you are unavailable from that time for the next
 	hour. E.g. if you enter 11 we know that you are unavailable from
 	11:00 to 11:59.
 
 
-Example: Exercise unavailability of Günter Kniesel:
+Example: Exercise unavailability of G??nter Kniesel:
 
-unavailable( 'Günter Kniesel', tuesday,  8 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday,  9 ).	% ALP lecture
-unavailable( 'Günter Kniesel', tuesday, 11 ).	% Master thesis advising
+unavailable( 'G??nter Kniesel', tuesday,  8 ).	% ALP lecture
+unavailable( 'G??nter Kniesel', tuesday,  9 ).	% ALP lecture
+unavailable( 'G??nter Kniesel', tuesday, 11 ).	% Master thesis advising
 
 You can save some typing by entering only unavailability times during
 the slots when our tutors are available (see file "tutorial_slots.pl").
@@ -57,6 +57,17 @@ unavailable( 'Jun Liu', thursday,  15 ).
 unavailable( 'Jun Liu', friday,  14 ).
 unavailable( 'Jun Liu', friday,  15 ).
 
+%Unavailability Ruotong Li
+unavailable( 'Ruotong Li', tuesday,  13 ).
+unavailable( 'Ruotong Li', tuesday,  14 ).
+unavailable( 'Ruotong Li', thursday, 13).
+unavailable( 'Ruotong Li', thursday, 14).
+unavailable( 'Ruotong Li', thursday, 15).
+unavailable( 'Ruotong Li', friday, 9).
+unavailable( 'Ruotong Li', friday, 10).
+unavailable( 'Ruotong Li', friday, 11).
+% end Unavailability Ruotong Li
+
 unavailable( 'Niklas Bergmann', thursday,	13 ).
 unavailable( 'Niklas Bergmann', thursday,	14 ).
 unavailable( 'Niklas Bergmann', thursday,	15 ).
@@ -68,18 +79,19 @@ unavailable( 'Niklas Bergmann', friday,		9  ).
 unavailable( 'Niklas Bergmann', friday,		10 ).
 unavailable( 'Niklas Bergmann', friday,		11 ).
 
-unavailable( 'Michael Heußen', monday, 16).
-unavailable( 'Michael Heußen', monday, 17).
-unavailable( 'Michael Heußen', tuesday, 11).
-unavailable( 'Michael Heußen', tuesday, 13).
-unavailable( 'Michael Heußen', tuesday, 14).
-unavailable( 'Michael Heußen', wednesday, 14).
-unavailable( 'Michael Heußen', wednesday, 15).
-unavailable( 'Michael Heußen', thursday, 13).
-unavailable( 'Michael Heußen', thursday, 14).
-unavailable( 'Michael Heußen', thursday, 15).
-unavailable( 'Michael Heußen', friday, 14).
-unavailable( 'Michael Heußen', friday, 15).
+unavailable( 'Michael Heussen', monday, 16).
+unavailable( 'Michael Heussen', monday, 17).
+unavailable( 'Michael Heussen', tuesday, 11).
+unavailable( 'Michael Heussen', tuesday, 13).
+unavailable( 'Michael Heussen', tuesday, 14).
+unavailable( 'Michael Heussen', wednesday, 14).
+unavailable( 'Michael Heussen', wednesday, 15).
+unavailable( 'Michael Heussen', wednesday, 16).
+unavailable( 'Michael Heussen', thursday, 13).
+unavailable( 'Michael Heussen', thursday, 14).
+unavailable( 'Michael Heussen', thursday, 15).
+unavailable( 'Michael Heussen', friday, 14).
+unavailable( 'Michael Heussen', friday, 15).
 
 unavailable( 'Yvonne Omlor', tuesday, 10).
 unavailable( 'Yvonne Omlor', tuesday, 11).
@@ -172,12 +184,6 @@ unavailable( 'Alvin Tjondrowiguno', friday, 15).
 unavailable( 'Alvin Tjondrowiguno', friday, 16).
 unavailable( 'Alvin Tjondrowiguno', friday, 17).
 
-unavailable( 'Alvin Tjondrowiguno', friday, 16).
-unavailable( 'Alvin Tjondrowiguno', friday, 17).
-
-unavailable( 'Alvin Tjondrowiguno', friday, 16).
-unavailable( 'Alvin Tjondrowiguno', friday, 17).
-
 %Unavailability sahar pourkarimi
 unavailable( 'sahar pourkarimi koukaneh', monday,  16).
 unavailable( 'sahar pourkarimi koukaneh', monday,  17).
@@ -215,8 +221,28 @@ unavailable( 'Cristobal Leiva', friday, 15).
 unavailable( 'Cristobal Leiva', friday, 16).
 unavailable( 'Cristobal Leiva', friday, 17).
 
+%Unavailability klaus martinez
+unavailable( 'Klaus Martinez', monday, 16).
+unavailable( 'Klaus Martinez', monday, 17).
+unavailable( 'Klaus Martinez', tuesday, 10).
+unavailable( 'Klaus Martinez', tuesday, 11).
+unavailable( 'Klaus Martinez', tuesday, 13).
+unavailable( 'Klaus Martinez', tuesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 17).
+unavailable( 'Klaus Martinez', wednesday, 18).
+unavailable( 'Klaus Martinez', thursday, 13).
+unavailable( 'Klaus Martinez', friday, 9).
+unavailable( 'Klaus Martinez', friday, 10).
+unavailable( 'Klaus Martinez', friday, 11).
+unavailable( 'Klaus Martinez', friday, 14).
+unavailable( 'Klaus Martinez', friday, 15).
+unavailable( 'Klaus Martinez', friday, 16).
+unavailable( 'Klaus Martinez', friday, 17).
+
+
 %Unavailability olkesandr Melnyk
-unavailable( 'Oleksandr Melnyk', tuesday, 10). 
+unavailable( 'Oleksandr Melnyk', tuesday, 10).
 unavailable( 'Oleksandr Melnyk', tuesday, 11).
 unavailable( 'Oleksandr Melnyk', tuesday, 13).
 unavailable( 'Oleksandr Melnyk', tuesday, 14).
@@ -245,6 +271,31 @@ unavailable( 'Timm Behner', thursday, 15).
 unavailable( 'Timm Behner', friday, 14).
 unavailable( 'Timm Behner', friday, 15).
 
+%Unavailability Ruotong Li
+unavailable( 'Ruotong Li', thursday, 13).
+unavailable( 'Ruotong Li', thursday, 14).
+unavailable( 'Ruotong Li', thursday, 15).
+unavailable( 'Ruotong Li', friday, 9).
+unavailable( 'Ruotong Li', friday, 10).
+unavailable( 'Ruotong Li', friday, 11).
+% end Unavailability Ruotong Li
+%Unavailability Florian Weile
+unavailable('Florian Weile', friday, 9).
+unavailable('Florian Weile', friday, 14).
+unavailable('Florian Weile', friday, 15).
+unavailable('Florian Weile', friday, 16).
+unavailable('Florian Weile', friday, 17).
+unavailable('Florian Weile', thursday, 13).
+unavailable('Florian Weile', thursday, 14).
+unavailable('Florian Weile', thursday, 15).
+unavailable('Florian Weile', wednesday, 14).
+unavailable('Florian Weile', wednesday, 15).
+unavailable('Florian Weile', wednesday, 16).
+unavailable('Florian Weile', wednesday, 17).
+unavailable('Florian Weile', wednesday, 18).
+unavailable('Florian Weile', monday, 16).
+unavailable('Florian Weile', monday, 17).
+
 unavailable( 'Amr Koura', monday, 14).
 unavailable( 'Amr Koura', tuesday, 13).
 unavailable( 'Amr Koura', tuesday, 14).
@@ -260,6 +311,145 @@ unavailable( 'Amr Koura', friday, 14).
 unavailable( 'Amr Koura', friday, 15).
 unavailable( 'Amr Koura', friday, 16).
 unavailable( 'Amr Koura', friday, 17).
+
+%Unavailability Eva-Maria Hols
+unavailable( 'Eva-Maria Hols', monday, 17).
+unavailable( 'Eva-Maria Hols', tuesday, 10).
+unavailable( 'Eva-Maria Hols', tuesday, 14).
+unavailable( 'Eva-Maria Hols', wednesday, 14).
+unavailable( 'Eva-Maria Hols', wednesday, 15).
+unavailable( 'Eva-Maria Hols', wednesday, 16).
+unavailable( 'Eva-Maria Hols', wednesday, 17).
+unavailable( 'Eva-Maria Hols', wednesday, 18).
+unavailable( 'Eva-Maria Hols', thursday, 13).
+unavailable( 'Eva-Maria Hols', thursday, 14).
+unavailable( 'Eva-Maria Hols', thursday, 15).
+unavailable( 'Eva-Maria Hols', friday, 14).
+unavailable( 'Eva-Maria Hols', friday, 15).
+
+%Unavailability Xiaoming Su
+unavailable( 'Xiaoming Su', monday,  12 ).
+unavailable( 'Xiaoming Su', monday,  16 ).
+unavailable( 'Xiaoming Su', tuesday,  8 ).
+unavailable( 'Xiaoming Su', tuesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  10 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  12 ).
+unavailable( 'Xiaoming Su', wednesday,  15 ).
+unavailable( 'Xiaoming Su', thursday,  8 ).
+unavailable( 'Xiaoming Su', thursday,  10 ).
+unavailable( 'Xiaoming Su', friday,  12 ).
+unavailable( 'Xiaoming Su', friday,  16 ).
+% end Unavailability Xiaoming Su
+
+
+
+unavailable( 'Krisztian Simon', monday, 16).
+unavailable( 'Krisztian Simon', monday, 17).
+unavailable( 'Krisztian Simon', tuesday, 10).
+unavailable( 'Krisztian Simon', tuesday, 11).
+unavailable( 'Krisztian Simon', tuesday, 13).
+unavailable( 'Krisztian Simon', tuesday, 14).
+unavailable( 'Krisztian Simon', wednesday, 18).
+unavailable( 'Krisztian Simon', thursday, 13).
+unavailable( 'Krisztian Simon', thursday, 14).
+unavailable( 'Krisztian Simon', thursday, 15).
+unavailable( 'Krisztian Simon', friday, 14).
+unavailable( 'Krisztian Simon', friday, 15).
+unavailable( 'Krisztian Simon', friday, 16).
+unavailable( 'Krisztian Simon', friday, 17).
+
+
+unavailable( 'Rose-Mary Mensah', monday, 16).
+unavailable( 'Rose-Mary Mensah', monday, 17).
+unavailable( 'Rose-Mary Mensah', tuesday, 10).
+unavailable( 'Rose-Mary Mensah', tuesday, 11).
+unavailable( 'Rose-Mary Mensah', wednesday, 17).
+unavailable( 'Rose-Mary Mensah', wednesday, 18).
+unavailable( 'Rose-Mary Mensah', thursday, 13).
+unavailable( 'Rose-Mary Mensah', thursday, 14).
+unavailable( 'Rose-Mary Mensah', thursday, 15).
+unavailable( 'Rose-Mary Mensah', friday, 9).
+unavailable( 'Rose-Mary Mensah', friday, 10).
+unavailable( 'Rose-Mary Mensah', friday, 11).
+unavailable( 'Rose-Mary Mensah', friday, 14).
+unavailable( 'Rose-Mary Mensah', friday, 15).
+unavailable( 'Rose-Mary Mensah', friday, 16).
+unavailable( 'Rose-Mary Mensah', friday, 17).
+
+unavailable( 'Hantong Liu', wednesday,  10 ).
+unavailable( 'Hantong Liu', wednesday,  11 ).
+unavailable( 'Hantong Liu', wednesday,  13 ).
+unavailable( 'Hantong Liu', friday,  14 ).
+unavailable( 'Hantong Liu', friday,  15 ).
+
+
+unavailable( 'Ziduan Fang', tuesday,  13 ).
+unavailable( 'Ziduan Fang', tuesday,  14 ).
+unavailable( 'Ziduan Fang', wednesday,  14 ).
+unavailable( 'Ziduan Fang', wednesday,  15 ).
+unavailable( 'Ziduan Fang', wednesday,  16 ).
+unavailable( 'Ziduan Fang', wednesday,  17 ).
+unavailable( 'Ziduan Fang', wednesday,  18 ).
+unavailable( 'Ziduan Fang', thursday,  13 ).
+unavailable( 'Ziduan Fang', thursday,  14 ).
+unavailable( 'Ziduan Fang', thursday,  15 ).
+unavailable( 'Ziduan Fang', friday,  14 ).
+unavailable( 'Ziduan Fang', friday,  15 ).
+
+unavailable( 'Majella von Zahn', monday, 16).
+unavailable( 'Majella von Zahn', tuesday, 10). 
+unavailable( 'Majella von Zahn', tuesday, 11).  
+unavailable( 'Majella von Zahn', tuesday, 13).  
+unavailable( 'Majella von Zahn', tuesday, 14).  
+unavailable( 'Majella von Zahn', wednesday, 14).     
+unavailable( 'Majella von Zahn', wednesday, 15). 
+unavailable( 'Majella von Zahn', wednesday, 16).   
+unavailable( 'Majella von Zahn', wednesday, 18). 
+unavailable( 'Majella von Zahn', thursday, 13). 
+unavailable( 'Majella von Zahn', thursday, 14). 
+unavailable( 'Majella von Zahn', friday, 9).  
+unavailable( 'Majella von Zahn', friday, 10). 
+unavailable( 'Majella von Zahn', friday, 11).     
+unavailable( 'Majella von Zahn', friday, 12). 
+unavailable( 'Majella von Zahn', friday, 14).  
+unavailable( 'Majella von Zahn', friday, 15).     
+unavailable( 'Majella von Zahn', friday, 16).     
+unavailable( 'Majella von Zahn', friday, 17).           
+
+
+unavailable('Sareh Ghayoomi', wednesday, 14).        
+unavailable('Sareh Ghayoomi', wednesday, 15).        
+unavailable('Sareh Ghayoomi', wednesday, 16).        
+unavailable('Sareh Ghayoomi', wednesday, 17).        
+unavailable('Sareh Ghayoomi', wednesday, 18). 
+
+
+unavailable( 'Narges Kasaeizadeh', monday, 16 ).
+unavailable( 'Narges Kasaeizadeh', monday, 17 ).
+unavailable( 'Narges Kasaeizadeh', tuesday, 10 ).
+unavailable( 'Narges Kasaeizadeh', tuesday, 11 ).
+unavailable( 'Narges Kasaeizadeh', tuesday, 13 ).
+unavailable( 'Narges Kasaeizadeh', tuesday, 14 ).
+unavailable( 'Narges Kasaeizadeh', wednesday, 16 ).
+unavailable( 'Narges Kasaeizadeh', wednesday, 17 ).
+unavailable( 'Narges Kasaeizadeh', wednesday, 18 ).
+unavailable( 'Narges Kasaeizadeh', thursday, 13 ).
+unavailable( 'Narges Kasaeizadeh', thursday, 14 ).
+unavailable( 'Narges Kasaeizadeh', thursday, 15 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 9 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 10 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 11 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 14 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 15 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 16 ).
+unavailable( 'Narges Kasaeizadeh', Friday, 17 ).
+
+
+
+
+
+
 
 
 
