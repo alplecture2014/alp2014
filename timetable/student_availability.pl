@@ -375,3 +375,9 @@ unavailable( 'Rose-Mary Mensah', friday, 14).
 unavailable( 'Rose-Mary Mensah', friday, 15).
 unavailable( 'Rose-Mary Mensah', friday, 16).
 unavailable( 'Rose-Mary Mensah', friday, 17).
+
+unavailable( 'Hantong Liu', wednesday,  10 ).
+unavailable( 'Hantong Liu', wednesday,  11 ).
+unavailable( 'Hantong Liu', wednesday,  13 ).
+unavailable( 'Hantong Liu', friday,  14 ).
+unavailable( 'Hantong Liu', friday,  15 ).
