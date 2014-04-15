@@ -245,6 +245,23 @@ unavailable( 'Timm Behner', thursday, 15).
 unavailable( 'Timm Behner', friday, 14).
 unavailable( 'Timm Behner', friday, 15).
 
+%Unavailability Florian Weile
+unavailable('Florian Weile', friday, 9).
+unavailable('Florian Weile', friday, 14).
+unavailable('Florian Weile', friday, 15).
+unavailable('Florian Weile', friday, 16).
+unavailable('Florian Weile', friday, 17).
+unavailable('Florian Weile', thursday, 13).
+unavailable('Florian Weile', thursday, 14).
+unavailable('Florian Weile', thursday, 15).
+unavailable('Florian Weile', wednesday, 14).
+unavailable('Florian Weile', wednesday, 15).
+unavailable('Florian Weile', wednesday, 16).
+unavailable('Florian Weile', wednesday, 17).
+unavailable('Florian Weile', wednesday, 18).
+unavailable('Florian Weile', monday, 16).
+unavailable('Florian Weile', monday, 17).
+
 unavailable( 'Amr Koura', monday, 14).
 unavailable( 'Amr Koura', tuesday, 13).
 unavailable( 'Amr Koura', tuesday, 14).
@@ -260,6 +277,3 @@ unavailable( 'Amr Koura', friday, 14).
 unavailable( 'Amr Koura', friday, 15).
 unavailable( 'Amr Koura', friday, 16).
 unavailable( 'Amr Koura', friday, 17).
-
-
-
