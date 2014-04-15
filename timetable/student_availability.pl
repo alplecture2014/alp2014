@@ -226,6 +226,25 @@ unavailable( 'Cristobal Leiva', friday, 15).
 unavailable( 'Cristobal Leiva', friday, 16).
 unavailable( 'Cristobal Leiva', friday, 17).
 
+%Unavailability klaus martinez
+unavailable( 'Klaus Martinez', monday, 16).
+unavailable( 'Klaus Martinez', monday, 17).
+unavailable( 'Klaus Martinez', tuesday, 10).
+unavailable( 'Klaus Martinez', tuesday, 11).
+unavailable( 'Klaus Martinez', tuesday, 13).
+unavailable( 'Klaus Martinez', tuesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 14).
+unavailable( 'Klaus Martinez', wednesday, 17).
+unavailable( 'Klaus Martinez', wednesday, 18).
+unavailable( 'Klaus Martinez', friday, 9).
+unavailable( 'Klaus Martinez', friday, 10).
+unavailable( 'Klaus Martinez', friday, 11).
+unavailable( 'Klaus Martinez', friday, 14).
+unavailable( 'Klaus Martinez', friday, 15).
+unavailable( 'Klaus Martinez', friday, 16).
+unavailable( 'Klaus Martinez', friday, 17).
+
+
 %Unavailability olkesandr Melnyk
 unavailable( 'Oleksandr Melnyk', tuesday, 10).
 unavailable( 'Oleksandr Melnyk', tuesday, 11).
