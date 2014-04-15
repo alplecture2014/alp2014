@@ -245,3 +245,21 @@ unavailable( 'Timm Behner', thursday, 15).
 unavailable( 'Timm Behner', friday, 14).
 unavailable( 'Timm Behner', friday, 15).
 
+unavailable( 'Amr Koura', monday, 14).
+unavailable( 'Amr Koura', tuesday, 13).
+unavailable( 'Amr Koura', tuesday, 14).
+unavailable( 'Amr Koura', wednesday, 14).
+unavailable( 'Amr Koura', wednesday, 15).
+unavailable( 'Amr Koura', wednesday, 16).
+unavailable( 'Amr Koura', thursday, 13).
+unavailable( 'Amr Koura', thursday, 14).
+unavailable( 'Amr Koura', friday, 9).
+unavailable( 'Amr Koura', friday, 10).
+unavailable( 'Amr Koura', friday,11).
+unavailable( 'Amr Koura', friday, 14).
+unavailable( 'Amr Koura', friday, 15).
+unavailable( 'Amr Koura', friday, 16).
+unavailable( 'Amr Koura', friday, 17).
+
+
+
