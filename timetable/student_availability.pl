@@ -183,12 +183,6 @@ unavailable( 'Alvin Tjondrowiguno', friday, 15).
 unavailable( 'Alvin Tjondrowiguno', friday, 16).
 unavailable( 'Alvin Tjondrowiguno', friday, 17).
 
-unavailable( 'Alvin Tjondrowiguno', friday, 16).
-unavailable( 'Alvin Tjondrowiguno', friday, 17).
-
-unavailable( 'Alvin Tjondrowiguno', friday, 16).
-unavailable( 'Alvin Tjondrowiguno', friday, 17).
-
 %Unavailability sahar pourkarimi
 unavailable( 'sahar pourkarimi koukaneh', monday,  16).
 unavailable( 'sahar pourkarimi koukaneh', monday,  17).
