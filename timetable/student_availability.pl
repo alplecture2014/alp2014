@@ -199,3 +199,21 @@ unavailable( 'sahar pourkarimi koukaneh', friday,  15).
 unavailable( 'sahar pourkarimi koukaneh', friday,  16).
 unavailable( 'sahar pourkarimi koukaneh', friday,  17).
 
+%Unavailability cristobal leiva
+unavailable( 'Cristobal Leiva', tuesday, 10).
+unavailable( 'Cristobal Leiva', tuesday, 11).
+unavailable( 'Cristobal Leiva', tuesday, 13).
+unavailable( 'Cristobal Leiva', tuesday, 14).
+unavailable( 'Cristobal Leiva', wednesday, 14).
+unavailable( 'Cristobal Leiva', wednesday, 15).
+unavailable( 'Cristobal Leiva', wednesday, 16).
+unavailable( 'Cristobal Leiva', friday, 9).
+unavailable( 'Cristobal Leiva', friday, 10).
+unavailable( 'Cristobal Leiva', friday, 11).
+unavailable( 'Cristobal Leiva', friday, 14).
+unavailable( 'Cristobal Leiva', friday, 15).
+unavailable( 'Cristobal Leiva', friday, 16).
+unavailable( 'Cristobal Leiva', friday, 17).
+
+
+
