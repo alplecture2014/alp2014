@@ -481,3 +481,24 @@ unavailable( 'mohsen jadidi', Friday, 15 ).
 unavailable( 'mohsen jadidi', Friday, 16 ).
 unavailable( 'mohsen jadidi', Friday, 17 ).
 
+%Unavailability Mana Azamat
+unavailable( 'Mana Azamat', monday, 16 ).
+unavailable( 'Mana Azamat', monday, 17 ).
+unavailable( 'Mana Azamat', tuesday, 10 ).
+unavailable( 'Mana Azamat', tuesday, 11 ).
+unavailable( 'Mana Azamat', tuesday, 13 ).
+unavailable( 'Mana Azamat', tuesday, 14 ).
+unavailable( 'Mana Azamat', wednesday, 14 ).
+unavailable( 'Mana Azamat', wednesday, 15 ).
+unavailable( 'Mana Azamat', wednesday, 16 ).
+unavailable( 'Mana Azamat', wednesday, 17 ).
+unavailable( 'Mana Azamat', wednesday, 18 ).
+unavailable( 'Mana Azamat', thursday, 13 ).
+unavailable( 'Mana Azamat', thursday, 14 ).
+unavailable( 'Mana Azamat', Friday, 9 ).
+unavailable( 'Mana Azamat', Friday, 10 ).
+unavailable( 'Mana Azamat', Friday, 11 ).
+unavailable( 'Mana Azamat', Friday, 14 ).
+unavailable( 'Mana Azamat', Friday, 15 ).
+unavailable( 'Mana Azamat', Friday, 16 ).
+unavailable( 'Mana Azamat', Friday, 17 ).
