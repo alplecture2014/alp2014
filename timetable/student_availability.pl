@@ -398,31 +398,31 @@ unavailable( 'Ziduan Fang', friday,  14 ).
 unavailable( 'Ziduan Fang', friday,  15 ).
 
 unavailable( 'Majella von Zahn', monday, 16).
-unavailable( 'Majella von Zahn', tuesday, 10). 
-unavailable( 'Majella von Zahn', tuesday, 11).  
-unavailable( 'Majella von Zahn', tuesday, 13).  
-unavailable( 'Majella von Zahn', tuesday, 14).  
-unavailable( 'Majella von Zahn', wednesday, 14).     
-unavailable( 'Majella von Zahn', wednesday, 15). 
-unavailable( 'Majella von Zahn', wednesday, 16).   
-unavailable( 'Majella von Zahn', wednesday, 18). 
-unavailable( 'Majella von Zahn', thursday, 13). 
-unavailable( 'Majella von Zahn', thursday, 14). 
-unavailable( 'Majella von Zahn', friday, 9).  
-unavailable( 'Majella von Zahn', friday, 10). 
-unavailable( 'Majella von Zahn', friday, 11).     
-unavailable( 'Majella von Zahn', friday, 12). 
-unavailable( 'Majella von Zahn', friday, 14).  
-unavailable( 'Majella von Zahn', friday, 15).     
-unavailable( 'Majella von Zahn', friday, 16).     
-unavailable( 'Majella von Zahn', friday, 17).           
+unavailable( 'Majella von Zahn', tuesday, 10).
+unavailable( 'Majella von Zahn', tuesday, 11).
+unavailable( 'Majella von Zahn', tuesday, 13).
+unavailable( 'Majella von Zahn', tuesday, 14).
+unavailable( 'Majella von Zahn', wednesday, 14).
+unavailable( 'Majella von Zahn', wednesday, 15).
+unavailable( 'Majella von Zahn', wednesday, 16).
+unavailable( 'Majella von Zahn', wednesday, 18).
+unavailable( 'Majella von Zahn', thursday, 13).
+unavailable( 'Majella von Zahn', thursday, 14).
+unavailable( 'Majella von Zahn', friday, 9).
+unavailable( 'Majella von Zahn', friday, 10).
+unavailable( 'Majella von Zahn', friday, 11).
+unavailable( 'Majella von Zahn', friday, 12).
+unavailable( 'Majella von Zahn', friday, 14).
+unavailable( 'Majella von Zahn', friday, 15).
+unavailable( 'Majella von Zahn', friday, 16).
+unavailable( 'Majella von Zahn', friday, 17).
 
 
-unavailable('Sareh Ghayoomi', wednesday, 14).        
-unavailable('Sareh Ghayoomi', wednesday, 15).        
-unavailable('Sareh Ghayoomi', wednesday, 16).        
-unavailable('Sareh Ghayoomi', wednesday, 17).        
-unavailable('Sareh Ghayoomi', wednesday, 18). 
+unavailable('Sareh Ghayoomi', wednesday, 14).
+unavailable('Sareh Ghayoomi', wednesday, 15).
+unavailable('Sareh Ghayoomi', wednesday, 16).
+unavailable('Sareh Ghayoomi', wednesday, 17).
+unavailable('Sareh Ghayoomi', wednesday, 18).
 
 
 unavailable( 'Narges Kasaeizadeh', monday, 16 ).
@@ -502,3 +502,20 @@ unavailable( 'Mana Azamat', Friday, 14 ).
 unavailable( 'Mana Azamat', Friday, 15 ).
 unavailable( 'Mana Azamat', Friday, 16 ).
 unavailable( 'Mana Azamat', Friday, 17 ).
+
+%UnavailabilitySahar Delavar
+
+unavailable( 'Sahar Delavar', wednesday, 14 ).
+unavailable( 'Sahar Delavar', wednesday, 15 ).
+unavailable( 'Sahar Delavar', wednesday, 16 ).
+unavailable( 'Sahar Delavar', wednesday, 17 ).
+unavailable( 'Sahar Delavar', tuesday, 10 ).
+unavailable( 'Sahar Delavar', tuesday, 11 ).
+unavailable( 'Sahar Delavar', tuesday, 13 ).
+unavailable( 'Sahar Delavar', friday, 9 ).
+unavailable( 'Sahar Delavar', friday, 10 ).
+unavailable( 'Sahar Delavar', friday, 11 ).
+unavailable( 'Sahar Delavar', friday, 13 ).
+unavailable( 'Sahar Delavar', friday, 14 ).
+unavailable( 'Sahar Delavar', friday, 15 ).
+unavailable( 'Sahar Delavar', friday, 16 ).
