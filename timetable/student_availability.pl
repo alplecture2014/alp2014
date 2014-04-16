@@ -586,3 +586,23 @@ unavailable( 'Hector Eduardo Ugarte Rojas', friday, 13 ).
 unavailable( 'Hector Eduardo Ugarte Rojas', friday, 14 ).
 unavailable( 'Hector Eduardo Ugarte Rojas', friday, 15 ).
 unavailable( 'Hector Eduardo Ugarte Rojas', friday, 16 ).
+
+
+unavailable( 'Ali Khoramshahi', monday, 16).
+unavailable( 'Ali Khoramshahi', monday, 17).
+unavailable( 'Ali Khoramshahi', tuesday, 10).
+unavailable( 'Ali Khoramshahi', tuesday, 11).
+unavailable( 'Ali Khoramshahi', wednesday, 16).
+unavailable( 'Ali Khoramshahi', wednesday, 17).
+unavailable( 'Ali Khoramshahi', wednesday, 18).
+unavailable( 'Ali Khoramshahi', thursday, 13).
+unavailable( 'Ali Khoramshahi', thursday, 14).
+unavailable( 'Ali Khoramshahi', thursday, 15).
+unavailable( 'Ali Khoramshahi', friday, 9).
+unavailable( 'Ali Khoramshahi', friday, 10).
+unavailable( 'Ali Khoramshahi', friday, 11).
+unavailable( 'Ali Khoramshahi', friday, 14).
+unavailable( 'Ali Khoramshahi', friday, 15).
+unavailable( 'Ali Khoramshahi', friday, 16).
+unavailable( 'Ali Khoramshahi', friday, 17).
+
