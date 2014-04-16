@@ -519,3 +519,24 @@ unavailable( 'Sahar Delavar', friday, 13 ).
 unavailable( 'Sahar Delavar', friday, 14 ).
 unavailable( 'Sahar Delavar', friday, 15 ).
 unavailable( 'Sahar Delavar', friday, 16 ).
+
+unavailable( 'Vooria Makrooni', monday, 16).
+unavailable( 'Vooria Makrooni', monday, 17).
+unavailable( 'Vooria Makrooni', tuesday, 10).
+unavailable( 'Vooria Makrooni', tuesday, 11).
+unavailable( 'Vooria Makrooni', tuesday, 13).
+unavailable( 'Vooria Makrooni', tuesday, 14).
+unavailable( 'Vooria Makrooni', wednesday, 14).
+unavailable( 'Vooria Makrooni', wednesday, 15).
+unavailable( 'Vooria Makrooni', wednesday, 16).
+unavailable( 'Vooria Makrooni', wednesday, 17).
+unavailable( 'Vooria Makrooni', wednesday, 18).
+unavailable( 'Vooria Makrooni', thursday, 13).
+unavailable( 'Vooria Makrooni', thursday, 15).
+unavailable( 'Vooria Makrooni', friday, 9).
+unavailable( 'Vooria Makrooni', friday, 10).
+unavailable( 'Vooria Makrooni', friday, 11).
+unavailable( 'Vooria Makrooni', friday, 14).
+unavailable( 'Vooria Makrooni', friday, 15).
+unavailable( 'Vooria Makrooni', friday, 16).
+unavailable( 'Vooria Makrooni', friday, 17).
