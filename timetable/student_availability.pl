@@ -540,3 +540,49 @@ unavailable( 'Vooria Makrooni', friday, 14).
 unavailable( 'Vooria Makrooni', friday, 15).
 unavailable( 'Vooria Makrooni', friday, 16).
 unavailable( 'Vooria Makrooni', friday, 17).
+
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 8 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 9 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 10 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 11 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 12 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 13 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 14 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 15 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 16 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 17 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 18 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 19 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', monday, 20 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 8 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 9 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 10 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 11 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 12 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', tuesday, 13 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 10 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 11 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 12 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 13 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 14 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 15 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 16 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 17 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 18 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 19 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', wednesday, 20 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 12 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 13 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 14 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 15 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 16 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', thursday, 17 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 8 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 9 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 10 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 11 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 12 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 13 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 14 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 15 ).
+unavailable( 'Hector Eduardo Ugarte Rojas', friday, 16 ).
