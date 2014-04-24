@@ -606,3 +606,39 @@ unavailable( 'Ali Khoramshahi', friday, 15).
 unavailable( 'Ali Khoramshahi', friday, 16).
 unavailable( 'Ali Khoramshahi', friday, 17).
 
+
+unavailable( 'Mintcho Tzatzarov', monday, 9).
+unavailable( 'Mintcho Tzatzarov', monday, 10).
+unavailable( 'Mintcho Tzatzarov', monday, 11).
+unavailable( 'Mintcho Tzatzarov', monday, 12).
+unavailable( 'Mintcho Tzatzarov', monday, 13).
+unavailable( 'Mintcho Tzatzarov', monday, 14).
+unavailable( 'Mintcho Tzatzarov', monday, 15).
+unavailable( 'Mintcho Tzatzarov', wednesday, 14).
+unavailable( 'Mintcho Tzatzarov', wednesday, 15).
+unavailable( 'Mintcho Tzatzarov', wednesday, 16).
+unavailable( 'Mintcho Tzatzarov', wednesday, 17).
+unavailable( 'Mintcho Tzatzarov', friday, 12).
+unavailable( 'Mintcho Tzatzarov', friday, 13).
+unavailable( 'Mintcho Tzatzarov', friday, 14).
+unavailable( 'Mintcho Tzatzarov', friday, 15).
+unavailable( 'Mintcho Tzatzarov', friday, 16).
+
+unavailable( 'Yongfeng Zhong', tuesday, 10).
+unavailable( 'Yongfeng Zhong', tuesday, 11).
+unavailable( 'Yongfeng Zhong', tuesday, 12).
+unavailable( 'Yongfeng Zhong', tuesday, 13).
+unavailable( 'Yongfeng Zhong', tuesday, 14).
+unavailable( 'Yongfeng Zhong', wednesday, 14).
+unavailable( 'Yongfeng Zhong', wednesday, 15).
+unavailable( 'Yongfeng Zhong', wednesday, 16).
+unavailable( 'Yongfeng Zhong', wednesday, 17).
+unavailable( 'Yongfeng Zhong', wednesday, 18).
+unavailable( 'Yongfeng Zhong', thursday, 13).
+unavailable( 'Yongfeng Zhong', thursday, 14).
+unavailable( 'Yongfeng Zhong', thursday, 15).
+unavailable( 'Yongfeng Zhong', friday, 9).
+unavailable( 'Yongfeng Zhong', friday, 14).
+unavailable( 'Yongfeng Zhong', friday, 15).
+unavailable( 'Yongfeng Zhong', friday, 16).
+
